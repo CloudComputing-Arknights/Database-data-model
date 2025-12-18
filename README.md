@@ -1,6 +1,6 @@
 
 VM Info:
-	Microservice 1 (Cloud Run)
+	- Microservice 1 (Cloud Run)
 		URL: https://users-api-121084561869.us-central1.run.app
 		JWT-SECRET: ruvYP5J6JMxTQXDmUMlmFno15AHLe4QgbYu49UmTG4w/g2k5lp+eG2W2TAqN1j4D
 		GOOGLE_CLIENT_ID: 121084561869-4shc71k483dm5un915qp0hd719l152b7.apps.googleusercontent.com
