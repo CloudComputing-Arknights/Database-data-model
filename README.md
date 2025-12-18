@@ -1,4 +1,3 @@
-# Sprint1_Database-data-model
 
 VM Info:
 	Microservice 1 (Cloud Run)
